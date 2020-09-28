@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sasha\\source\\repos\\Todo_List\\Todo_List\\Todo_List.csproj": {}
+    "C:\\Users\\sasha\\Desktop\\TodoList\\Todo_List\\Todo_List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sasha\\source\\repos\\Todo_List\\Todo_List\\Todo_List.csproj": {
+    "C:\\Users\\sasha\\Desktop\\TodoList\\Todo_List\\Todo_List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sasha\\source\\repos\\Todo_List\\Todo_List\\Todo_List.csproj",
+        "projectUniqueName": "C:\\Users\\sasha\\Desktop\\TodoList\\Todo_List\\Todo_List.csproj",
         "projectName": "Todo_List",
-        "projectPath": "C:\\Users\\sasha\\source\\repos\\Todo_List\\Todo_List\\Todo_List.csproj",
+        "projectPath": "C:\\Users\\sasha\\Desktop\\TodoList\\Todo_List\\Todo_List.csproj",
         "packagesPath": "C:\\Users\\sasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sasha\\source\\repos\\Todo_List\\Todo_List\\obj\\",
+        "outputPath": "C:\\Users\\sasha\\Desktop\\TodoList\\Todo_List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
